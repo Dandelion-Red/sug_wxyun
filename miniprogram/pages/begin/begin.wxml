@@ -3,7 +3,12 @@
 
 <view class="container">
   <view class="userinfo">
-    <button class='test' open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="onGotUserInfo" bindtap='log_in' plain style="color: #ffffff; border-color: #ffffff;">开启权益之旅 </button>
+  <text class="textone">欢迎来到权益中心</text>
+    <button    class='test' plain style="color: #ffffff; border-color: #ffffff;">学生登录 </button>
+
+  <button bindtap='master'  class='test'  plain style="color: #ffffff; border-color: #ffffff;">管理员登录 </button>
+  <input class="input" placeholder='       请输入管理员密码'></input>
+<text class='texttwo'>powered by 权益中心</text>
   </view>
-  <text class='text'>powered by 权益中心</text>
+  
 </view>

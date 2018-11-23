@@ -33,31 +33,15 @@
   border-radius: 50rpx;
   box-shadow: 4rpx 1rpx 1rpx #cccccc;
   color: #ffffff;
-  margin-top: 1cm;
+  margin-top: 150rpx;
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
-.textone{
-  margin-top: 5mm;
-  padding: 1cm;
 
-}
-.texttwo{
+.text{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 5cm;
-}
-.input{
- 
-  border-radius: 50rpx;
-  box-shadow: 4rpx 1rpx 1rpx #cccccc;
-  color: #ffffff;
-  margin-top: 1cm;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  
+  margin-top: 60vh
 }
